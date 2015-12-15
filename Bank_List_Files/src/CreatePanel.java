@@ -1,4 +1,7 @@
-
+//==================================================
+// Author:	Kevin Cabrera
+// Filename:	CreatePanel.java
+//==================================================
 import java.awt.Color;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
